@@ -2,5 +2,5 @@
 Ensoulsharp 
 Katarina
 Akali
-Zed Beta(testing)
+ZedBeta(testing)
 soon (sylas pyke kalista zoe fiora)
